@@ -1,7 +1,7 @@
 # Infinity Snap (Thanos Task Manager)
 
 > [!NOTE]
-> **Project Origin**: The initial idea and partial work for this project were developed in **April 2018**, coinciding with the theatrical release of *Avengers: Infinity War*.
+> **Project Origin**: The initial idea and partial work for this project were developed in **April 2018**, around the theatrical release of *Avengers: Infinity War*.
 
 A fun computer vision + systems project inspired by Thanos and the Infinity Gauntlet. Perform a finger snap gesture in front of your webcam, and the program will randomly select half of your running processes to "disappear".
 
